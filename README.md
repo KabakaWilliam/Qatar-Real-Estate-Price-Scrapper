@@ -22,4 +22,4 @@ To observe the exploration process look at the notebook `explore.ipynb` where I 
 
 ## Future Improvements
 
-[] Turn this scrapper to an API that returns data
+- [ ] Turn this scrapper to an API that returns data
